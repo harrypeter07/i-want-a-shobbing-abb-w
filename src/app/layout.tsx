@@ -2,8 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'i want a  shobbing abb w',
-  description: 'Built with Autonomous Remote AI Studio',
+  title: 'SoleVault | Premium Shoe Shopping App (i want a shobbing abb w)',
+  description:
+    'Curated performance running shoes, basketball sneakers, and grail streetwear silhouettes. Built with Next.js 14 App Router, Tailwind CSS, TypeScript, and MongoDB.',
 };
 
 export default function RootLayout({
